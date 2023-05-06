@@ -13,7 +13,7 @@
 ### Left
 
   | Color | Use Case |
-  | :-- | :-- | :-- |
+  | :-- | :-- |
   | White | Switch position A |
   | Red | Red LED |
   | Black | Ground (3 x LED + 1 x ATTiny85) |

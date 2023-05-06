@@ -10,6 +10,24 @@
 
 ## 2.0 Layout/Soldering
 
+### Left
+
+  | Color | Use Case |
+  | :-- | :-- | :-- |
+  | White | Switch position A |
+  | Red | Red LED |
+  | Black | Ground (3 x LED + 1 x ATTiny85) |
+  | Yellow | Ground (Switch) |
+  
+### Right
+  
+  | Color | Use Case |
+  | :-- | :-- |
+  | Red | +5 VDC |
+  | White | Switch position B |
+  | Green | Green LED |
+  | Blue | Blue LED |
+
 <img src="https://user-images.githubusercontent.com/40885610/236594634-45fd77ca-69ca-4f25-9d51-a8123720d21e.jpg" width="500">
 <img src="https://user-images.githubusercontent.com/40885610/236594636-094b9b96-5c33-43ac-910a-d62098cabbca.jpg" width="500">
 
